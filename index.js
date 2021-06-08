@@ -19,4 +19,4 @@ myObj =    [
     }
 ]
 
-console.log(myObj [1].Name [1]);
+console.log(myObj [0]);
